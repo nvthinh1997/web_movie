@@ -1,3 +1,9 @@
+Tài khoản đăng nhập:
+User:	Tên đăng nhập: string
+	Mật khẩu	:  string
+Admin: Tên đăng nhập : string
+	Mật khẩu	: string
+
 Chức năng:
 1.	Trang chủ
 -	Chức năng đăng nhập, thoát
