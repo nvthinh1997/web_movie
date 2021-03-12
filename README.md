@@ -1,7 +1,7 @@
 Tài khoản đăng nhập:
-User:	Tên đăng nhập: string
+- User:	Tên đăng nhập: string
 	Mật khẩu	:  string
-Admin: Tên đăng nhập : string
+- Admin: Tên đăng nhập : string
 	Mật khẩu	: string
 
 Chức năng:
